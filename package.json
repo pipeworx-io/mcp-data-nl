@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-data-nl",
+  "version": "0.1.0",
+  "description": "Netherlands Open Data (data.overheid.nl/data) CKAN MCP.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "data-nl"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-data-nl"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
