@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-nl",
   "title": "Data Nl",
   "description": "Netherlands Open Data (data.overheid.nl/data) CKAN MCP.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/data-nl",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-nl",
