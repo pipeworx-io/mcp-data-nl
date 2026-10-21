@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-nl",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Netherlands Open Data (data.overheid.nl/data) CKAN MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1112c8a95284361eefe55a5df7609ef53d09c9b4f6cdd641a2bf58bf76068392",
-    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
+    "sourceHash": "v1-906aeaa8e304bdff43a949ff671958b6a12d5d60382673f50efd52d7686d1b1f",
+    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
   }
 }
